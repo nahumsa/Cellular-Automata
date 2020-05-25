@@ -1,3 +1,3 @@
 # Cellular-Automata
 
-Build a cellular automata for given rules using [Wolfram](http://mathworld.wolfram.com/ElementaryCellularAutomaton.html).
+In this repository I intend to implement 1D and 2D Cellular Automata.
